@@ -28,6 +28,8 @@ synchronization service, and naming registry for large distributed systems.
 * Add new variable in PATH
     %ZOOKEEPER%/bin
 * Open Command prompt and run command zkserver.
+* if port issue comes for admin server 
+    admin.serverPort=8020
 
 ### Steps to run Kafka : ###
 
